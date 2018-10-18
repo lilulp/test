@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d263c030-b4ed-4c8b-adc7-ec4fd1147f7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-maven/src/main/java/com/rabbitmq/TT.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-maven/src/main/java/com/rabbitmq/App.java" afterPath="$PROJECT_DIR$/rabbitmq-maven/src/main/java/com/rabbitmq/App.java" />
     </list>
     <ignored path="$PROJECT_DIR$/rabbitmq-maven/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,7 +258,7 @@
       <updated>1539824575055</updated>
       <workItem from="1539824576810" duration="2156000" />
       <workItem from="1539826762391" duration="610000" />
-      <workItem from="1539844852571" duration="515000" />
+      <workItem from="1539844852571" duration="555000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1539825731725</created>
@@ -297,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539827146037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="idea测试">
+      <created>1539845393921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539845393921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3281000" />
+    <option name="totallyTimeSpent" value="3321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
@@ -372,7 +377,8 @@
     <MESSAGE value="000" />
     <MESSAGE value="111" />
     <MESSAGE value="加上测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上测试用例" />
+    <MESSAGE value="idea测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
