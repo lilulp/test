@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-maven/rabbitmq-maven.iml" filepath="$PROJECT_DIR$/rabbitmq-maven/rabbitmq-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-maven/rabbitmq-maven.iml" filepath="$PROJECT_DIR$/rabbitmq-maven/rabbitmq-maven.iml" />
     </modules>
   </component>
 </project>
