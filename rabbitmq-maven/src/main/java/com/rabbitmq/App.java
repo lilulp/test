@@ -2,7 +2,7 @@ package com.rabbitmq;
 
 /**
  * Hello world!
- *
+ *测试使用
  */
 public class App 
 {
