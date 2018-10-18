@@ -9,6 +9,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * 消费者消费消息
  */
+//fsdagasgg1111
 public class Resv {
     private static final String QUEUE_NAME="test_simple_queue";
     public static void main(String[] args) throws IOException, TimeoutException {
